@@ -26,5 +26,8 @@ This is a codeblock
 ```mermaid
 flowchart LR
 ice ---> condensation
+condensation --> water
+water --> evaporation
+evaporation --> steam
 ```
 
