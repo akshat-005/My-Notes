@@ -29,5 +29,7 @@ ice ---> condensation
 condensation --> water
 water --> evaporation
 evaporation --> steam
+flowchart RL
+steam --> condensation
 ```
 
