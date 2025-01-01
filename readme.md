@@ -15,6 +15,6 @@ This is my first GitHub commit.
 | 3. | [DSA Notes](./Clanguage.md) | 90 Hours |  
 
 
-- There is a feature to use or make changes in your repo directly from VS Code by pressing "." in your github page and it will directly open an online VS Code page for you. This line of commit was made through VS Code itself. 
+-There is a feature to use or make changes in your repo directly from VS Code by pressing "." in your github page and it will directly open an online VS Code page for you. This line of commit was made through VS Code itself. 
 
 
