@@ -29,7 +29,12 @@ ice ---> condensation
 condensation --> water
 water --> evaporation
 evaporation --> steam
+```
+```mermaid
 flowchart RL
 steam --> condensation
+condensation --> water
+water --> freezing
+freezing --> ice
 ```
 
