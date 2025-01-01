@@ -16,14 +16,17 @@ This is my first GitHub commit.
 
 
 -There is a feature to use or make changes in your repo directly from VS Code by pressing "." in your github page and it will directly open an online VS Code page for you. This line of commit was made through VS Code itself.  
--We can also make 1) Add a codeblock in our readme using ``` file 
-                  2) make a flowchart using the mermaid fucntion under the ``` codeblock
+-We can also make: 1) Add a codeblock in our readme using "```" file 
+                   2) make a flowchart using the mermaid fucntion under the "```" codeblock
 
 ```
 This is a codeblock
 ```
+### Making a Flowchart
 ```mermaid
 flowchart LR
-one ---> two
+ice ---> condensation --> water --> evaporation --> steam
+flowchart RL
+steam --> condesation --> water --> freezing --> ice
 
 
