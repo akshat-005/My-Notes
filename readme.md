@@ -31,5 +31,6 @@ water --> freezing
 freezing --> ice
 ```
 
+### Other Features
 - You can also use the wiki feature if you don't want too many readme files on the main page
 - You can make use of the "ISSUES" tab as your reminders, that you have to do this, fix this, etc. 
