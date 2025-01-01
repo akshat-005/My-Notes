@@ -25,8 +25,8 @@ This is a codeblock
 ### Making a Flowchart
 ```mermaid
 flowchart LR
-ice --> condensation --> water --> evaporation --> steam
+ice ---> condensation ---> water ---> evaporation ---> steam
 flowchart RL
-steam --> condesation --> water --> freezing --> ice
+steam ---> condesation ---> water ---> freezing ---> ice
 
 
