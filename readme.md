@@ -10,9 +10,9 @@ This is my first GitHub commit.
 ### Table of Contents
 | Sl. No.| Topic or Contents | Hours |
 |--------|-------------------|-------|
-| 1. | [Web Development Notes]{./webdev.md} | 100+ Hours |
-| 2. | [C Programming Notes]{./Clanguage.md} | 10 Hours |
-| 3. | [DSA Notes]{./Clanguage.md} | 90 Hours |
+| 1. | [Web Development Notes](./webdev.md) | 100+ Hours |
+| 2. | [C Programming Notes](./Clanguage.md) | 10 Hours |
+| 3. | [DSA Notes](./Clanguage.md) | 90 Hours |
 
 
 
