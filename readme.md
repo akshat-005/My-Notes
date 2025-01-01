@@ -12,7 +12,8 @@ This is my first GitHub commit.
 |--------|-------------------|-------|
 | 1. | [Web Development Notes](./webdev.md) | 100+ Hours |
 | 2. | [C Programming Notes](./Clanguage.md) | 10 Hours |
-| 3. | [DSA Notes](./Clanguage.md) | 90 Hours |
+| 3. | [DSA Notes](./Clanguage.md) | 90 Hours |  
 
+- There is a feature to use or make changes in your repo directly from VS Code by pressing "." in your github page and it will directly open an online VS Code page for you. This line of commit was made through VS Code itself. 
 
 
