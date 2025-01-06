@@ -1,4 +1,4 @@
-# My Notes
+# GitHub - Notetaking 
 
 ### Using GitHub for my Personal Note-taking
 
